@@ -1,1 +1,2 @@
-# Kovalchuk_illia-gis
+# Quiz-final
+Фінальна версія Квізу (фронтенд)
